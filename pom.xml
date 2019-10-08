@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.stacksimplify.restservices</groupId>
-	<artifactId>buildingblocks</artifactId>
+	<artifactId>springboot-buildingblocks</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>buildingblocks</name>
 	<description>Demo project for Spring Boot</description>
